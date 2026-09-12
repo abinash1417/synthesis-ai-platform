@@ -1,0 +1,29 @@
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+.block-container {
+    max-width: 900px;
+    padding-top: 2rem;
+}
+
+h1 {
+    color: #6366f1;
+}
+
+.stButton>button {
+    background-color: #6366f1;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    background-color: #4f46e5;
+    color: white;
+}
+
+[data-testid="stToolbar"] {
+    visibility: hidden;
+}
