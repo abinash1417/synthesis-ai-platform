@@ -1,0 +1,5 @@
+venv/
+.env
+synthesis_db/
+auth_config.yaml
+__pycache__/

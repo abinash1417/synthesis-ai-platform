@@ -1,0 +1,9 @@
+streamlit
+chromadb
+langgraph
+langchain
+langchain-groq
+langchain-core
+python-dotenv
+pypdf
+tenacity
